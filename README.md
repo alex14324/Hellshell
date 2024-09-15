@@ -1,6 +1,6 @@
 HellShell
 
-Welcome to HellShell, a powerful tool designed by the MalDevAcademy team to assist with static evasion techniques for payloads. HellShell simplifies the process of encrypting and obfuscating shellcode using various methods, including XOR, RC4, AES encryption, and multiple obfuscation formats such as IPv4, IPv6, MAC addresses, and UUIDs.
+Welcome to HellShell, a powerful tool designed by the Pentesterclub team to assist with static evasion techniques for payloads. HellShell simplifies the process of encrypting and obfuscating shellcode using various methods, including XOR, RC4, AES encryption, and multiple obfuscation formats such as IPv4, IPv6, MAC addresses, and UUIDs.
 
 Features
 Obfuscation Support:
@@ -31,10 +31,15 @@ HellShell.exe <Input Payload FileName> <Enc/Obf *Option*>
 Options:
 
 mac - Outputs the shellcode as an array of MAC addresses (e.g., FC-48-83-E4-F0-E8).
+
 ipv4 - Outputs the shellcode as an array of IPv4 addresses (e.g., 252.72.131.228).
+
 ipv6 - Outputs the shellcode as an array of IPv6 addresses (e.g., FC48:83E4:F0E8:C000:0000:4151:4150:5251).
+
 uuid - Outputs the shellcode as an array of UUID strings (e.g., FC4883E4-F0E8-C000-0000-415141505251).
+
 aes - Outputs the shellcode as AES-encrypted data with a randomly generated key and IV.
+
 rc4 - Outputs the shellcode as RC4-encrypted data with a randomly generated key.
 
 Examples
