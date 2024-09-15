@@ -43,20 +43,27 @@ aes - Outputs the shellcode as AES-encrypted data with a randomly generated key 
 rc4 - Outputs the shellcode as RC4-encrypted data with a randomly generated key.
 
 Examples
+
 Generate AES-encrypted payload and print to console:
+
 HellShell.exe calc.bin aes
 
 Generate AES-encrypted payload and output to AesPayload.c
+
 HellShell.exe calc.bin aes > AesPayload.c
 
 Generate IPv6-obfuscated payload and print to console:
+
 HellShell.exe calc.bin ipv6
 
 Demo
+
 Below is an image showcasing HellShell in action, demonstrating the encryption of a payload using the RC4 algorithm and outputting the result to a file.
 
 Contact
+
 For questions or support, please contact the Pentesterclub team:
 
 Pentesterclubpvtltd: @Pentesterclub | @alex14324
+
 Thank you for using HellShell. Happy Hacking!
