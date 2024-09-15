@@ -1,0 +1,33 @@
+﻿  Encryption.c
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(92,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(80,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(110,11): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(111,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(113,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(117,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Encryption.c(213,47): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+  HellShell.c
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(15,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(185,9): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(239,13): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(70,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(75,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(79,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\HellShell.c(83,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  IO.c
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\IO.c(44,45): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\IO.c(20,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\IO.c(21,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\IO.c(57,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Obfuscation.c
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(37,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(98,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(171,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(234,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+  StringFunctions.c
+  Generating Code...
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(28,1): warning C4172: returning address of local variable or temporary : result
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(91,1): warning C4172: returning address of local variable or temporary : Output
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(163,1): warning C4172: returning address of local variable or temporary : result
+C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\HellShell\Obfuscation.c(226,1): warning C4172: returning address of local variable or temporary : Output
+  HellShell.vcxproj -> C:\Users\Administrator\Desktop\MD\24.HellShell\HellShell\x64\Debug\HellShell.exe
