@@ -1,4 +1,5 @@
 HellShell
+
 Welcome to HellShell, a powerful tool designed by the MalDevAcademy team to assist with static evasion techniques for payloads. HellShell simplifies the process of encrypting and obfuscating shellcode using various methods, including XOR, RC4, AES encryption, and multiple obfuscation formats such as IPv4, IPv6, MAC addresses, and UUIDs.
 
 Features
